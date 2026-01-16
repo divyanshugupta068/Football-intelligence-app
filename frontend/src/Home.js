@@ -136,7 +136,7 @@ export default function Home() {
 
         {/* CLUBS */}
         <div style={clubsSectionStyle}>
-          <h2 style={sectionTitle}>⚽ Top Clubs</h2>
+          <h2 style={sectionTitle}> Top Clubs</h2>
           <div style={clubsRow}>
             {CLUBS.map(c => (
               <div
@@ -158,7 +158,7 @@ export default function Home() {
         {/* LIVE MATCHES */}
         <section>
           <div style={sectionHeaderStyle}>
-            <h2 style={sectionTitle}>🔥 Live Matches</h2>
+            <h2 style={sectionTitle}> Live Matches</h2>
             <button style={viewAllButton} onClick={() => navigate("/matches")}>
               View All
             </button>
