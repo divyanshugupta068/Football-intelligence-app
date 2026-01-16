@@ -443,7 +443,7 @@ const PORT = 5000;
 app.listen(PORT, () => {
   console.log(`✅ Backend running on http://localhost:${PORT}`);
 });
-const path = require("path");
+
 
 // Serve React frontend build
 app.use(express.static(path.join(process.cwd(), "build")));
