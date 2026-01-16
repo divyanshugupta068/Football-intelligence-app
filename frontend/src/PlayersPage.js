@@ -13,7 +13,7 @@ export default function PlayersPage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:5000/players")
+    fetch("/players")
       .then(r => r.json())
       .then(d => {
         setPlayers(Array.isArray(d) ? d : []);
