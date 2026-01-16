@@ -9,7 +9,7 @@ export default function StatsPage() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch("http://localhost:5000/players/enhanced")
+        fetch("/enhanced")
             .then(r => r.json())
             .then(d => {
                 setPlayers(Array.isArray(d) ? d : []);
