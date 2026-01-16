@@ -448,6 +448,9 @@ app.listen(PORT, () => {
 // Serve React frontend build
 app.use(express.static(path.join(process.cwd(), "build")));
 
-app.get("/*", (req, res) => {
+app.use((req, res, next) => {
+  if (req.method !== "GET") return next();
+
   res.sendFile(path.join(process.cwd(), "build", "index.html"));
 });
+
