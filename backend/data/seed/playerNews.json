@@ -1,0 +1,26 @@
+{
+  "Messi": [
+    {
+      "title": "Messi continues playmaking brilliance with match-winning assist",
+      "image": "https://i.imgur.com/6X8GkBv.jpg",
+      "source": "ESPN",
+      "time": "Yesterday"
+    }
+  ],
+  "Haaland": [
+    {
+      "title": "Haaland breaks another scoring record this season",
+      "image": "https://i.imgur.com/q8TjH2a.jpg",
+      "source": "Sky Sports",
+      "time": "Today"
+    }
+  ],
+  "Mbappe": [
+    {
+      "title": "Mbappé future speculation grows amid contract discussions",
+      "image": "https://i.imgur.com/k2zP6jX.jpg",
+      "source": "L’Équipe",
+      "time": "2 days ago"
+    }
+  ]
+}

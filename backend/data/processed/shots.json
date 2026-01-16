@@ -1,0 +1,8852 @@
+[
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9583333333333334,
+    "y": 0.3125,
+    "xG": 0.018856188,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9083333333333333,
+    "y": 0.6375,
+    "xG": 0.041846413,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "So-Yun Ji",
+    "team": "Chelsea FCW",
+    "x": 0.825,
+    "y": 0.65,
+    "xG": 0.026682008,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Drew Spence",
+    "team": "Chelsea FCW",
+    "x": 0.8916666666666667,
+    "y": 0.5,
+    "xG": 0.106219485,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Millie Bright",
+    "team": "Chelsea FCW",
+    "x": 0.9,
+    "y": 0.4,
+    "xG": 0.082253404,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9,
+    "y": 0.4,
+    "xG": 0.11862602,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Maren Nævdal Mjelde",
+    "team": "Chelsea FCW",
+    "x": 0.725,
+    "y": 0.5125,
+    "xG": 0.025282087,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "So-Yun Ji",
+    "team": "Chelsea FCW",
+    "x": 0.9,
+    "y": 0.45,
+    "xG": 0.122101225,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.875,
+    "y": 0.5375,
+    "xG": 0.11130494,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nikita Parris",
+    "team": "Manchester City WFC",
+    "x": 0.975,
+    "y": 0.6625,
+    "xG": 0.015437505,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jill Scott",
+    "team": "Manchester City WFC",
+    "x": 0.85,
+    "y": 0.625,
+    "xG": 0.05569606,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.115364544,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.9583333333333334,
+    "y": 0.675,
+    "xG": 0.025684146,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "So-Yun Ji",
+    "team": "Chelsea FCW",
+    "x": 0.85,
+    "y": 0.425,
+    "xG": 0.07206662,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9,
+    "y": 0.5875,
+    "xG": 0.10620265,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Drew Spence",
+    "team": "Chelsea FCW",
+    "x": 0.7833333333333333,
+    "y": 0.675,
+    "xG": 0.024526225,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.9,
+    "y": 0.3375,
+    "xG": 0.058761407,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.95,
+    "y": 0.425,
+    "xG": 0.31122506,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nikita Parris",
+    "team": "Manchester City WFC",
+    "x": 0.9583333333333334,
+    "y": 0.5125,
+    "xG": 0.25981876,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Francesca Kirby",
+    "team": "Chelsea FCW",
+    "x": 0.9083333333333333,
+    "y": 0.4875,
+    "xG": 0.10323378,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.975,
+    "y": 0.3875,
+    "xG": 0.13266921,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.7583333333333333,
+    "y": 0.65,
+    "xG": 0.035133634,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Millie Bright",
+    "team": "Chelsea FCW",
+    "x": 0.9833333333333333,
+    "y": 0.4875,
+    "xG": 0.2916144,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jennifer Patricia Beattie",
+    "team": "Manchester City WFC",
+    "x": 0.9,
+    "y": 0.4375,
+    "xG": 0.053667918,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "Chelsea FCW",
+    "x": 0.925,
+    "y": 0.4,
+    "xG": 0.16594568,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Georgia Stanway",
+    "team": "Manchester City WFC",
+    "x": 0.7333333333333333,
+    "y": 0.425,
+    "xG": 0.026774483,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nikita Parris",
+    "team": "Manchester City WFC",
+    "x": 0.9416666666666667,
+    "y": 0.525,
+    "xG": 0.5121269,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erin Cuthbert",
+    "team": "Chelsea FCW",
+    "x": 0.8916666666666667,
+    "y": 0.5875,
+    "xG": 0.18030268,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "Chelsea FCW",
+    "x": 0.9166666666666666,
+    "y": 0.45,
+    "xG": 0.48266536,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Georgia Stanway",
+    "team": "Manchester City WFC",
+    "x": 0.8166666666666667,
+    "y": 0.575,
+    "xG": 0.044294372,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ramona Bachmann",
+    "team": "Chelsea FCW",
+    "x": 0.9416666666666667,
+    "y": 0.525,
+    "xG": 0.14531294,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erin Cuthbert",
+    "team": "Chelsea FCW",
+    "x": 0.9083333333333333,
+    "y": 0.65,
+    "xG": 0.069088206,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Georgia Stanway",
+    "team": "Manchester City WFC",
+    "x": 0.85,
+    "y": 0.4375,
+    "xG": 0.07796062,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jennifer Patricia Beattie",
+    "team": "Manchester City WFC",
+    "x": 0.9083333333333333,
+    "y": 0.4625,
+    "xG": 0.061737683,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.8833333333333333,
+    "y": 0.4375,
+    "xG": 0.097240604,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.4875,
+    "xG": 0.053301424,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.4,
+    "xG": 0.09457453,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.6,
+    "xG": 0.03135553,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.2625,
+    "xG": 0.008003449,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.15612374,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.55,
+    "xG": 0.068219095,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.525,
+    "xG": 0.06133352,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.5875,
+    "xG": 0.06008085,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.35,
+    "xG": 0.20509002,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8583333333333333,
+    "y": 0.4875,
+    "xG": 0.10499528,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.3875,
+    "xG": 0.13629091,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Joanna Lohman",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.575,
+    "xG": 0.083592586,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.425,
+    "xG": 0.24550784,
+    "outcome": "Post",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.475,
+    "xG": 0.14212596,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.4875,
+    "xG": 0.6626056,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.9666666666666667,
+    "y": 0.4875,
+    "xG": 0.54280853,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Havana Solaun",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.2,
+    "xG": 0.00988468,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.9916666666666667,
+    "y": 0.3625,
+    "xG": 0.018283706,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.575,
+    "xG": 0.057973385,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.7125,
+    "xG": 0.012583124,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.3375,
+    "xG": 0.046430565,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.925,
+    "y": 0.7625,
+    "xG": 0.0102871405,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estelle Johnson",
+    "team": "Washington Spirit",
+    "x": 0.9583333333333334,
+    "y": 0.6,
+    "xG": 0.12603746,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.65,
+    "xG": 0.06551418,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.8083333333333333,
+    "y": 0.425,
+    "xG": 0.0384103,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Weber",
+    "team": "Portland Thorns",
+    "x": 0.925,
+    "y": 0.5625,
+    "xG": 0.3215839,
+    "outcome": "Post",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Stephanie-Elise Catley",
+    "team": "OL Reign",
+    "x": 0.8833333333333333,
+    "y": 0.375,
+    "xG": 0.061868846,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.775,
+    "y": 0.5875,
+    "xG": 0.053808708,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Weber",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.4375,
+    "xG": 0.26365405,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.9,
+    "y": 0.65,
+    "xG": 0.15594445,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.9416666666666667,
+    "y": 0.4875,
+    "xG": 0.12907563,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.7666666666666667,
+    "y": 0.3875,
+    "xG": 0.019309279,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.975,
+    "y": 0.5,
+    "xG": 0.20339668,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Weber",
+    "team": "Portland Thorns",
+    "x": 0.875,
+    "y": 0.2875,
+    "xG": 0.02328303,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.55,
+    "xG": 0.090093054,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.9166666666666666,
+    "y": 0.5875,
+    "xG": 0.088149086,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.85,
+    "y": 0.425,
+    "xG": 0.08759282,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.875,
+    "y": 0.3125,
+    "xG": 0.04053764,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.8083333333333333,
+    "y": 0.6125,
+    "xG": 0.050770175,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.85,
+    "y": 0.5,
+    "xG": 0.09273208,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.9666666666666667,
+    "y": 0.5375,
+    "xG": 0.5587147,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.875,
+    "y": 0.6375,
+    "xG": 0.05862246,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Ann Sonnett",
+    "team": "Portland Thorns",
+    "x": 0.9916666666666667,
+    "y": 0.525,
+    "xG": 0.7634392,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.5125,
+    "xG": 0.12242812,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rumi Utsugi",
+    "team": "OL Reign",
+    "x": 0.8,
+    "y": 0.5625,
+    "xG": 0.034355678,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.7835,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andressa Cavalari Machry",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.475,
+    "xG": 0.08224795,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.975,
+    "y": 0.6,
+    "xG": 0.084398285,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.9416666666666667,
+    "y": 0.6125,
+    "xG": 0.06318396,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.8833333333333333,
+    "y": 0.625,
+    "xG": 0.1321277,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9416666666666667,
+    "y": 0.55,
+    "xG": 0.11850678,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rumi Utsugi",
+    "team": "OL Reign",
+    "x": 0.75,
+    "y": 0.6125,
+    "xG": 0.024541505,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.8833333333333333,
+    "y": 0.725,
+    "xG": 0.01211852,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.875,
+    "y": 0.6125,
+    "xG": 0.06403179,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Margaret Purce",
+    "team": "Portland Thorns",
+    "x": 0.9166666666666666,
+    "y": 0.7375,
+    "xG": 0.00754812,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.975,
+    "y": 0.475,
+    "xG": 0.4215263,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.975,
+    "y": 0.4875,
+    "xG": 0.41241845,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.4875,
+    "xG": 0.059535444,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.95,
+    "y": 0.475,
+    "xG": 0.10880526,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.8833333333333333,
+    "y": 0.3625,
+    "xG": 0.036123212,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.9166666666666666,
+    "y": 0.325,
+    "xG": 0.056671984,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Summer Green",
+    "team": "Chicago Red Stars",
+    "x": 0.775,
+    "y": 0.4875,
+    "xG": 0.031128265,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.5375,
+    "xG": 0.09781748,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.7125,
+    "xG": 0.02957652,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.5,
+    "xG": 0.11411154,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.7666666666666667,
+    "y": 0.375,
+    "xG": 0.044389848,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.5625,
+    "xG": 0.094878815,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.55,
+    "xG": 0.15712626,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.525,
+    "xG": 0.19028004,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jaelene McKenzie Daniels",
+    "team": "North Carolina Courage",
+    "x": 0.7166666666666667,
+    "y": 0.6125,
+    "xG": 0.010917162,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.575,
+    "xG": 0.06619775,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.7,
+    "y": 0.675,
+    "xG": 0.0061890236,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.5125,
+    "xG": 0.06408958,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Chicago Red Stars",
+    "x": 0.7,
+    "y": 0.425,
+    "xG": 0.008289203,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.475,
+    "xG": 0.06255593,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.5125,
+    "xG": 0.08988826,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lauren Kaskie",
+    "team": "Chicago Red Stars",
+    "x": 0.8333333333333334,
+    "y": 0.6375,
+    "xG": 0.084152505,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lauren Kaskie",
+    "team": "Chicago Red Stars",
+    "x": 0.8416666666666667,
+    "y": 0.6125,
+    "xG": 0.048266694,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.3125,
+    "xG": 0.023259489,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.775,
+    "y": 0.75,
+    "xG": 0.007487467,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.3125,
+    "xG": 0.035551712,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9416666666666667,
+    "y": 0.675,
+    "xG": 0.043343667,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.7583333333333333,
+    "y": 0.525,
+    "xG": 0.026061121,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.375,
+    "xG": 0.060529284,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.4375,
+    "xG": 0.10728357,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.6125,
+    "xG": 0.08307481,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.3625,
+    "xG": 0.02419304,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.5125,
+    "xG": 0.47587585,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.275,
+    "xG": 0.0125224,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.825,
+    "y": 0.2125,
+    "xG": 0.014356908,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.475,
+    "xG": 0.06969869,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.55,
+    "xG": 0.09111963,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.575,
+    "xG": 0.13117279,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.425,
+    "xG": 0.26947305,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8083333333333333,
+    "y": 0.5125,
+    "xG": 0.040309537,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8083333333333333,
+    "y": 0.55,
+    "xG": 0.15739332,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.6,
+    "xG": 0.13007665,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.625,
+    "xG": 0.06217797,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.625,
+    "xG": 0.073006034,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.35,
+    "xG": 0.034579474,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.6875,
+    "xG": 0.015509545,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9916666666666667,
+    "y": 0.6375,
+    "xG": 0.018068718,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.4625,
+    "xG": 0.23325539,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9416666666666667,
+    "y": 0.5625,
+    "xG": 0.1785034,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.525,
+    "xG": 0.15049694,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.45,
+    "xG": 0.112844326,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.9666666666666667,
+    "y": 0.575,
+    "xG": 0.1597611,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kelley Maureen O'Hara",
+    "team": "Utah Royals",
+    "x": 0.85,
+    "y": 0.5625,
+    "xG": 0.15389869,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.7583333333333333,
+    "y": 0.725,
+    "xG": 0.040656913,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katrina Gorry",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.6625,
+    "xG": 0.029684914,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kelley Maureen O'Hara",
+    "team": "Utah Royals",
+    "x": 0.9583333333333334,
+    "y": 0.35,
+    "xG": 0.056433212,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rebecca Elizabeth Sauerbrunn",
+    "team": "Utah Royals",
+    "x": 0.95,
+    "y": 0.5375,
+    "xG": 0.12818976,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.7833333333333333,
+    "y": 0.3625,
+    "xG": 0.021009415,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8666666666666667,
+    "y": 0.3875,
+    "xG": 0.41983083,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Diana Matheson",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.675,
+    "xG": 0.087550275,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.825,
+    "y": 0.3,
+    "xG": 0.02595467,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kelley Maureen O'Hara",
+    "team": "Utah Royals",
+    "x": 0.825,
+    "y": 0.6375,
+    "xG": 0.08397205,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katrina Gorry",
+    "team": "Utah Royals",
+    "x": 0.7916666666666666,
+    "y": 0.3875,
+    "xG": 0.04817552,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.9833333333333333,
+    "y": 0.5625,
+    "xG": 0.35278043,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.9,
+    "y": 0.5625,
+    "xG": 0.08669064,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.4625,
+    "xG": 0.38284126,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.925,
+    "y": 0.5625,
+    "xG": 0.12795973,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Cali Farquharson",
+    "team": "Washington Spirit",
+    "x": 0.9,
+    "y": 0.45,
+    "xG": 0.05165932,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.8416666666666667,
+    "y": 0.5,
+    "xG": 0.060218733,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rebecca Quinn",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.45,
+    "xG": 0.07417896,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.55,
+    "xG": 0.41966072,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.325,
+    "xG": 0.05033281,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.8,
+    "y": 0.4875,
+    "xG": 0.041770246,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.4,
+    "xG": 0.11320464,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.35,
+    "xG": 0.041107297,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.825,
+    "y": 0.5,
+    "xG": 0.05245745,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.525,
+    "xG": 0.03366994,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.7666666666666667,
+    "y": 0.525,
+    "xG": 0.025429387,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.9666666666666667,
+    "y": 0.6625,
+    "xG": 0.033156533,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estefanía Romina Banini Ruiz",
+    "team": "Washington Spirit",
+    "x": 0.85,
+    "y": 0.3875,
+    "xG": 0.08528373,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.45,
+    "xG": 0.059717406,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.8666666666666667,
+    "y": 0.5,
+    "xG": 0.03493159,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.07739922,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8166666666666667,
+    "y": 0.3875,
+    "xG": 0.058190588,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.3125,
+    "xG": 0.037927307,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tori Huster",
+    "team": "Washington Spirit",
+    "x": 0.9583333333333334,
+    "y": 0.5,
+    "xG": 0.4689294,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.9833333333333333,
+    "y": 0.625,
+    "xG": 0.02216695,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.3125,
+    "xG": 0.04082756,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.575,
+    "xG": 0.16838518,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.45,
+    "xG": 0.34144115,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8583333333333333,
+    "y": 0.675,
+    "xG": 0.059390876,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.525,
+    "xG": 0.16978902,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8916666666666667,
+    "y": 0.4125,
+    "xG": 0.074274145,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.6625,
+    "xG": 0.031161604,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Meggie Dougherty Howard",
+    "team": "Washington Spirit",
+    "x": 0.7916666666666666,
+    "y": 0.525,
+    "xG": 0.04361278,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.5125,
+    "xG": 0.08287889,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8666666666666667,
+    "y": 0.4875,
+    "xG": 0.10895299,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.6625,
+    "xG": 0.0630701,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.7583333333333333,
+    "y": 0.3875,
+    "xG": 0.03001739,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9,
+    "y": 0.5625,
+    "xG": 0.18400148,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.5875,
+    "xG": 0.03234681,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8666666666666667,
+    "y": 0.2875,
+    "xG": 0.030916248,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.925,
+    "y": 0.45,
+    "xG": 0.077290855,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katlyn Alicia Johnson Carreón",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9583333333333334,
+    "y": 0.4625,
+    "xG": 0.44486058,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katlyn Alicia Johnson Carreón",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7833333333333333,
+    "y": 0.375,
+    "xG": 0.027448565,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.4375,
+    "xG": 0.21004213,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.3875,
+    "xG": 0.12532829,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.4,
+    "xG": 0.1786457,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.525,
+    "xG": 0.10029814,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.575,
+    "xG": 0.060468514,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.3125,
+    "xG": 0.022684412,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.4625,
+    "xG": 0.060480718,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.4125,
+    "xG": 0.06979407,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.55,
+    "xG": 0.50496453,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.3875,
+    "xG": 0.062873974,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.060239185,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.6,
+    "xG": 0.12460103,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.5375,
+    "xG": 0.12136204,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.55,
+    "xG": 0.07113857,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.7666666666666667,
+    "y": 0.6875,
+    "xG": 0.014543163,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.4375,
+    "xG": 0.45330766,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8833333333333333,
+    "y": 0.65,
+    "xG": 0.05352903,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sarah Killion",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8583333333333333,
+    "y": 0.4625,
+    "xG": 0.10409,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.31362534,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.5375,
+    "xG": 0.05339434,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jaelene McKenzie Daniels",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.5875,
+    "xG": 0.083928585,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.10466554,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.725,
+    "xG": 0.022249803,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9083333333333333,
+    "y": 0.5125,
+    "xG": 0.7835,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9416666666666667,
+    "y": 0.4125,
+    "xG": 0.2826802,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.7583333333333333,
+    "y": 0.5625,
+    "xG": 0.02431909,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jaelene McKenzie Daniels",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.675,
+    "xG": 0.059472173,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Darian Jenkins",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.19312048,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.425,
+    "xG": 0.048867892,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.7166666666666667,
+    "y": 0.3,
+    "xG": 0.007573413,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8,
+    "y": 0.3875,
+    "xG": 0.031588063,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.65,
+    "xG": 0.023451053,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.3625,
+    "xG": 0.071821846,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.375,
+    "xG": 0.080768615,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.19757304,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.4875,
+    "xG": 0.55640876,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.6375,
+    "xG": 0.03576086,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.475,
+    "xG": 0.04828045,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.625,
+    "xG": 0.11983397,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.575,
+    "xG": 0.201898,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.875,
+    "y": 0.275,
+    "xG": 0.017597044,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.55,
+    "xG": 0.4874078,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.55,
+    "xG": 0.30304667,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9583333333333334,
+    "y": 0.5875,
+    "xG": 0.3868691,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.4,
+    "xG": 0.07386106,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.525,
+    "xG": 0.3879692,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.6625,
+    "xG": 0.024175823,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.5,
+    "xG": 0.42157394,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Christine Nairn",
+    "team": "Orlando Pride",
+    "x": 0.9333333333333333,
+    "y": 0.575,
+    "xG": 0.139842,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5875,
+    "xG": 0.0664027,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.4375,
+    "xG": 0.11051556,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.6125,
+    "xG": 0.123978905,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.8083333333333333,
+    "y": 0.45,
+    "xG": 0.03534091,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.4625,
+    "xG": 0.39779994,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.4,
+    "xG": 0.28377584,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.8666666666666667,
+    "y": 0.425,
+    "xG": 0.42139462,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.13925561,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9416666666666667,
+    "y": 0.5,
+    "xG": 0.16024475,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.6125,
+    "xG": 0.052947666,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.5125,
+    "xG": 0.16954003,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.5125,
+    "xG": 0.06358035,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9583333333333334,
+    "y": 0.625,
+    "xG": 0.11397174,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.7083333333333334,
+    "y": 0.5875,
+    "xG": 0.010889217,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Hill",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.6,
+    "xG": 0.1026943,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8416666666666667,
+    "y": 0.35,
+    "xG": 0.052069798,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.475,
+    "xG": 0.22183827,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.7583333333333333,
+    "y": 0.3875,
+    "xG": 0.023732428,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.775,
+    "y": 0.3875,
+    "xG": 0.025510753,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.35,
+    "xG": 0.017761147,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.35,
+    "xG": 0.018134117,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.7,
+    "y": 0.55,
+    "xG": 0.009834916,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.5625,
+    "xG": 0.083080485,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.825,
+    "y": 0.4875,
+    "xG": 0.09053381,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shelina Laura Zadorsky",
+    "team": "Orlando Pride",
+    "x": 0.8,
+    "y": 0.6125,
+    "xG": 0.0354439,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.625,
+    "xG": 0.09678265,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.5875,
+    "xG": 0.16343679,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.7375,
+    "xG": 0.011817819,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.4375,
+    "xG": 0.34762388,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.8083333333333333,
+    "y": 0.65,
+    "xG": 0.02933041,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.875,
+    "y": 0.75,
+    "xG": 0.010750675,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.4125,
+    "xG": 0.11380035,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.275,
+    "xG": 0.018555563,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.6,
+    "xG": 0.08874703,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.525,
+    "xG": 0.04034893,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.6625,
+    "xG": 0.07923933,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Poliana Barbosa Medeiros",
+    "team": "Orlando Pride",
+    "x": 0.7583333333333333,
+    "y": 0.3875,
+    "xG": 0.024218274,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Poliana Barbosa Medeiros",
+    "team": "Orlando Pride",
+    "x": 0.9333333333333333,
+    "y": 0.675,
+    "xG": 0.035688903,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.65,
+    "xG": 0.074437305,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.9083333333333333,
+    "y": 0.7,
+    "xG": 0.043453407,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.8083333333333333,
+    "y": 0.4375,
+    "xG": 0.058799192,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.6,
+    "xG": 0.08209241,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.45,
+    "xG": 0.40879878,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.4,
+    "xG": 0.034220923,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.825,
+    "y": 0.6375,
+    "xG": 0.05042471,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8666666666666667,
+    "y": 0.2375,
+    "xG": 0.013056922,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.6375,
+    "xG": 0.09095428,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Darian Jenkins",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.625,
+    "xG": 0.13238475,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.7833333333333333,
+    "y": 0.6125,
+    "xG": 0.028410224,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9,
+    "y": 0.4875,
+    "xG": 0.055132143,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.8916666666666667,
+    "y": 0.4875,
+    "xG": 0.10008801,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8166666666666667,
+    "y": 0.325,
+    "xG": 0.028452447,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.7416666666666667,
+    "y": 0.25,
+    "xG": 0.0064112283,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.9666666666666667,
+    "y": 0.4625,
+    "xG": 0.44875953,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.3375,
+    "xG": 0.10231561,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.95,
+    "y": 0.4625,
+    "xG": 0.34217036,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.20321603,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Elizabeth Addo",
+    "team": "OL Reign",
+    "x": 0.9416666666666667,
+    "y": 0.425,
+    "xG": 0.19865184,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.925,
+    "y": 0.475,
+    "xG": 0.12771514,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.8833333333333333,
+    "y": 0.55,
+    "xG": 0.06340922,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Elizabeth Addo",
+    "team": "OL Reign",
+    "x": 0.8833333333333333,
+    "y": 0.6125,
+    "xG": 0.08305214,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.22886167,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9083333333333333,
+    "y": 0.35,
+    "xG": 0.10160333,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rumi Utsugi",
+    "team": "OL Reign",
+    "x": 0.8083333333333333,
+    "y": 0.3625,
+    "xG": 0.023315389,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Margaret Purce",
+    "team": "Portland Thorns",
+    "x": 0.8,
+    "y": 0.2,
+    "xG": 0.0068170973,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9,
+    "y": 0.3,
+    "xG": 0.050147418,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.525,
+    "xG": 0.13505323,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Theresa Nielsen",
+    "team": "OL Reign",
+    "x": 0.85,
+    "y": 0.65,
+    "xG": 0.034556128,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lauren Barnes",
+    "team": "OL Reign",
+    "x": 0.75,
+    "y": 0.5125,
+    "xG": 0.019451177,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.475,
+    "xG": 0.11077952,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8166666666666667,
+    "y": 0.3875,
+    "xG": 0.042255394,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.975,
+    "y": 0.525,
+    "xG": 0.5005019,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9333333333333333,
+    "y": 0.4125,
+    "xG": 0.13848665,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.95,
+    "y": 0.6375,
+    "xG": 0.1406357,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.9083333333333333,
+    "y": 0.575,
+    "xG": 0.3721361,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.9083333333333333,
+    "y": 0.4625,
+    "xG": 0.15564875,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katie Bowen",
+    "team": "Utah Royals",
+    "x": 0.7166666666666667,
+    "y": 0.45,
+    "xG": 0.017947694,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erika Tymrak",
+    "team": "Utah Royals",
+    "x": 0.9166666666666666,
+    "y": 0.625,
+    "xG": 0.12965037,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.8333333333333334,
+    "y": 0.4,
+    "xG": 0.0614531,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8,
+    "y": 0.325,
+    "xG": 0.02359681,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8916666666666667,
+    "y": 0.525,
+    "xG": 0.14891309,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8416666666666667,
+    "y": 0.5375,
+    "xG": 0.07145249,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.7833333333333333,
+    "y": 0.6,
+    "xG": 0.022474179,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8583333333333333,
+    "y": 0.525,
+    "xG": 0.052144933,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.7375,
+    "xG": 0.011018251,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katrina Gorry",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.3625,
+    "xG": 0.10544388,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erika Tymrak",
+    "team": "Utah Royals",
+    "x": 0.8333333333333334,
+    "y": 0.35,
+    "xG": 0.036598533,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8083333333333333,
+    "y": 0.725,
+    "xG": 0.011686079,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Michaela Abam",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.5083333333333333,
+    "y": 0.225,
+    "xG": 0.004662741,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.525,
+    "xG": 0.13129374,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9833333333333333,
+    "y": 0.375,
+    "xG": 0.025162648,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.2875,
+    "xG": 0.026590817,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.6625,
+    "xG": 0.06179506,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.825,
+    "y": 0.475,
+    "xG": 0.21115853,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Michele Vasconcelos",
+    "team": "Chicago Red Stars",
+    "x": 0.8166666666666667,
+    "y": 0.6625,
+    "xG": 0.025553154,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.8,
+    "y": 0.475,
+    "xG": 0.0457202,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.85,
+    "y": 0.6625,
+    "xG": 0.058606766,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Michele Vasconcelos",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.3625,
+    "xG": 0.051010773,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Mautz",
+    "team": "Chicago Red Stars",
+    "x": 0.7916666666666666,
+    "y": 0.7125,
+    "xG": 0.014557008,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Casey Marie Krueger",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.425,
+    "xG": 0.05836012,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.975,
+    "y": 0.4625,
+    "xG": 0.5214608,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9333333333333333,
+    "y": 0.475,
+    "xG": 0.18423851,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.7583333333333333,
+    "y": 0.4125,
+    "xG": 0.02050109,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9916666666666667,
+    "y": 0.4125,
+    "xG": 0.04975134,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.8,
+    "y": 0.4875,
+    "xG": 0.037999388,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.082330614,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.9166666666666666,
+    "y": 0.4,
+    "xG": 0.22203484,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Caprice Dydasco",
+    "team": "Washington Spirit",
+    "x": 0.825,
+    "y": 0.2625,
+    "xG": 0.0109695215,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.5375,
+    "xG": 0.19577837,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.3625,
+    "xG": 0.09525425,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Mautz",
+    "team": "Chicago Red Stars",
+    "x": 0.9333333333333333,
+    "y": 0.65,
+    "xG": 0.08103325,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.5375,
+    "xG": 0.1604784,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Michele Vasconcelos",
+    "team": "Chicago Red Stars",
+    "x": 0.875,
+    "y": 0.5875,
+    "xG": 0.09972373,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.3,
+    "xG": 0.033947263,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tori Huster",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.5375,
+    "xG": 0.23531291,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.3875,
+    "xG": 0.038588203,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.9666666666666667,
+    "y": 0.475,
+    "xG": 0.22870614,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Taylor Smith",
+    "team": "Washington Spirit",
+    "x": 0.7583333333333333,
+    "y": 0.675,
+    "xG": 0.015873993,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9583333333333334,
+    "y": 0.5625,
+    "xG": 0.2706171,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Francisca Ordega",
+    "team": "Washington Spirit",
+    "x": 0.8166666666666667,
+    "y": 0.4875,
+    "xG": 0.045189258,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8833333333333333,
+    "y": 0.5625,
+    "xG": 0.091834895,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Caprice Dydasco",
+    "team": "Washington Spirit",
+    "x": 0.775,
+    "y": 0.5875,
+    "xG": 0.019998124,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9,
+    "y": 0.55,
+    "xG": 0.119072065,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.8083333333333333,
+    "y": 0.7,
+    "xG": 0.042726226,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estelle Johnson",
+    "team": "Washington Spirit",
+    "x": 0.8833333333333333,
+    "y": 0.4,
+    "xG": 0.0676249,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Joanna Lohman",
+    "team": "Washington Spirit",
+    "x": 0.9166666666666666,
+    "y": 0.5625,
+    "xG": 0.11038009,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Brooke Elby",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.5875,
+    "xG": 0.53299016,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.825,
+    "y": 0.3875,
+    "xG": 0.088402815,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.425,
+    "xG": 0.2380672,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.475,
+    "xG": 0.23076355,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8083333333333333,
+    "y": 0.325,
+    "xG": 0.026985496,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rosie White",
+    "team": "Chicago Red Stars",
+    "x": 0.8333333333333334,
+    "y": 0.5125,
+    "xG": 0.08335145,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Brooke Elby",
+    "team": "Chicago Red Stars",
+    "x": 0.7583333333333333,
+    "y": 0.4375,
+    "xG": 0.020278582,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.7083333333333334,
+    "y": 0.55,
+    "xG": 0.014464613,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.6125,
+    "xG": 0.19884911,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.7333333333333333,
+    "y": 0.5625,
+    "xG": 0.023385447,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Julie Beth Ertz",
+    "team": "Chicago Red Stars",
+    "x": 0.7,
+    "y": 0.425,
+    "xG": 0.0068526575,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.7833333333333333,
+    "y": 0.425,
+    "xG": 0.026541363,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.8333333333333334,
+    "y": 0.4875,
+    "xG": 0.06384667,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.6375,
+    "xG": 0.12264994,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.9,
+    "y": 0.45,
+    "xG": 0.051905766,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.4875,
+    "xG": 0.3644629,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.4875,
+    "xG": 0.10308089,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.475,
+    "xG": 0.084530674,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.45,
+    "xG": 0.08618356,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.275,
+    "xG": 0.023337174,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.6,
+    "xG": 0.049133595,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8333333333333334,
+    "y": 0.6,
+    "xG": 0.040073317,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.7416666666666667,
+    "y": 0.55,
+    "xG": 0.017639183,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.875,
+    "y": 0.5375,
+    "xG": 0.10267789,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8,
+    "y": 0.475,
+    "xG": 0.07004623,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8083333333333333,
+    "y": 0.4875,
+    "xG": 0.05455018,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.55,
+    "xG": 0.08914505,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.45,
+    "xG": 0.102217875,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8583333333333333,
+    "y": 0.4625,
+    "xG": 0.07669277,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.4125,
+    "xG": 0.18336041,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.425,
+    "xG": 0.1528309,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9083333333333333,
+    "y": 0.65,
+    "xG": 0.094985954,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Julie Beth Ertz",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.4125,
+    "xG": 0.08857108,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.5125,
+    "xG": 0.19971076,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.6916666666666667,
+    "y": 0.5625,
+    "xG": 0.007237398,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5375,
+    "xG": 0.49501202,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.9083333333333333,
+    "y": 0.5125,
+    "xG": 0.7835,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.7666666666666667,
+    "y": 0.575,
+    "xG": 0.03080657,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9166666666666666,
+    "y": 0.525,
+    "xG": 0.13536823,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8916666666666667,
+    "y": 0.425,
+    "xG": 0.49630484,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.95,
+    "y": 0.6875,
+    "xG": 0.048072718,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9666666666666667,
+    "y": 0.625,
+    "xG": 0.109047316,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.6125,
+    "xG": 0.22224519,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.575,
+    "xG": 0.39089024,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Mautz",
+    "team": "Chicago Red Stars",
+    "x": 0.7916666666666666,
+    "y": 0.675,
+    "xG": 0.037731774,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Michele Vasconcelos",
+    "team": "Chicago Red Stars",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.6342155,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8583333333333333,
+    "y": 0.625,
+    "xG": 0.063034706,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Yuki Nagasato",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.7625,
+    "xG": 0.00814279,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Mautz",
+    "team": "Chicago Red Stars",
+    "x": 0.9583333333333334,
+    "y": 0.55,
+    "xG": 0.34176788,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Julie Beth Ertz",
+    "team": "Chicago Red Stars",
+    "x": 0.9833333333333333,
+    "y": 0.475,
+    "xG": 0.547393,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9166666666666666,
+    "y": 0.375,
+    "xG": 0.08742967,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9,
+    "y": 0.65,
+    "xG": 0.09015569,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.825,
+    "y": 0.6,
+    "xG": 0.12074642,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.925,
+    "y": 0.325,
+    "xG": 0.053339284,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Danielle Colaprico",
+    "team": "Chicago Red Stars",
+    "x": 0.7583333333333333,
+    "y": 0.4,
+    "xG": 0.020963198,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.875,
+    "y": 0.5875,
+    "xG": 0.42946237,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.3,
+    "xG": 0.11532995,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Madison Tiernan",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7916666666666666,
+    "y": 0.3625,
+    "xG": 0.028406428,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9,
+    "y": 0.425,
+    "xG": 0.15762821,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.6333333333333333,
+    "y": 0.8125,
+    "xG": 0.0061157835,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.925,
+    "y": 0.3875,
+    "xG": 0.20574377,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Casey Marie Krueger",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.3125,
+    "xG": 0.046098378,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9416666666666667,
+    "y": 0.5,
+    "xG": 0.1346889,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8,
+    "y": 0.7,
+    "xG": 0.041356597,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7083333333333334,
+    "y": 0.3625,
+    "xG": 0.0075043743,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.45,
+    "xG": 0.0648866,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.875,
+    "y": 0.6375,
+    "xG": 0.056916013,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Diana Matheson",
+    "team": "Utah Royals",
+    "x": 0.8583333333333333,
+    "y": 0.4125,
+    "xG": 0.16314206,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.75,
+    "y": 0.3625,
+    "xG": 0.020616068,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.7833333333333333,
+    "y": 0.45,
+    "xG": 0.030751415,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.14079067,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.8916666666666667,
+    "y": 0.5875,
+    "xG": 0.3627599,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.8916666666666667,
+    "y": 0.5625,
+    "xG": 0.1019063,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katrina Gorry",
+    "team": "Utah Royals",
+    "x": 0.7833333333333333,
+    "y": 0.3875,
+    "xG": 0.037643403,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ellie Madison Carpenter",
+    "team": "Portland Thorns",
+    "x": 0.7416666666666667,
+    "y": 0.825,
+    "xG": 0.0065552406,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.5375,
+    "xG": 0.54519385,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.6833333333333333,
+    "y": 0.4625,
+    "xG": 0.01106081,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.4625,
+    "xG": 0.3554837,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.875,
+    "y": 0.3,
+    "xG": 0.037292883,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.825,
+    "y": 0.5125,
+    "xG": 0.070762426,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Corsie",
+    "team": "Utah Royals",
+    "x": 0.9166666666666666,
+    "y": 0.575,
+    "xG": 0.09809679,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lo’eau LaBonta",
+    "team": "Utah Royals",
+    "x": 0.7583333333333333,
+    "y": 0.5125,
+    "xG": 0.027236242,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.8166666666666667,
+    "y": 0.8875,
+    "xG": 0.008057771,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amber Brooks",
+    "team": "Houston Dash",
+    "x": 0.9333333333333333,
+    "y": 0.5125,
+    "xG": 0.08936537,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kealia Ohai",
+    "team": "Houston Dash",
+    "x": 0.875,
+    "y": 0.2875,
+    "xG": 0.015128171,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9,
+    "y": 0.3625,
+    "xG": 0.09788062,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.925,
+    "y": 0.4875,
+    "xG": 0.09719836,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.3875,
+    "xG": 0.090928145,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9083333333333333,
+    "y": 0.425,
+    "xG": 0.30458397,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Theresa Nielsen",
+    "team": "OL Reign",
+    "x": 0.8,
+    "y": 0.625,
+    "xG": 0.026526485,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Elizabeth Addo",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.475,
+    "xG": 0.19889627,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rumi Utsugi",
+    "team": "OL Reign",
+    "x": 0.7833333333333333,
+    "y": 0.5125,
+    "xG": 0.039294954,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9916666666666667,
+    "y": 0.375,
+    "xG": 0.018265475,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9083333333333333,
+    "y": 0.5125,
+    "xG": 0.7835,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.9333333333333333,
+    "y": 0.5875,
+    "xG": 0.34790996,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Clare Elizabeth Polkinghorne",
+    "team": "Houston Dash",
+    "x": 0.8083333333333333,
+    "y": 0.6375,
+    "xG": 0.030578446,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.8583333333333333,
+    "y": 0.5,
+    "xG": 0.25463304,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.3875,
+    "xG": 0.12141038,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8416666666666667,
+    "y": 0.325,
+    "xG": 0.035426002,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kealia Ohai",
+    "team": "Houston Dash",
+    "x": 0.925,
+    "y": 0.3375,
+    "xG": 0.101061374,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Linda Maserame Motlhalo",
+    "team": "Houston Dash",
+    "x": 0.725,
+    "y": 0.8,
+    "xG": 0.005428959,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.9166666666666666,
+    "y": 0.4625,
+    "xG": 0.096038386,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Nahomi Kawasumi",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.6875,
+    "xG": 0.036639944,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.9166666666666666,
+    "y": 0.45,
+    "xG": 0.2711842,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.7416666666666667,
+    "y": 0.475,
+    "xG": 0.022264132,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.09447362,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Clare Elizabeth Polkinghorne",
+    "team": "Houston Dash",
+    "x": 0.8916666666666667,
+    "y": 0.4375,
+    "xG": 0.087019965,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.925,
+    "y": 0.3625,
+    "xG": 0.08659738,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.8916666666666667,
+    "y": 0.6625,
+    "xG": 0.103761636,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.7,
+    "y": 0.625,
+    "xG": 0.0061332975,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.875,
+    "y": 0.5875,
+    "xG": 0.09462861,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.9416666666666667,
+    "y": 0.525,
+    "xG": 0.37505436,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.875,
+    "y": 0.3125,
+    "xG": 0.019941147,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.925,
+    "y": 0.5125,
+    "xG": 0.15937936,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8416666666666667,
+    "y": 0.65,
+    "xG": 0.043369576,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estefanía Romina Banini Ruiz",
+    "team": "Washington Spirit",
+    "x": 0.825,
+    "y": 0.45,
+    "xG": 0.08099098,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.7916666666666666,
+    "y": 0.5125,
+    "xG": 0.030921767,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8166666666666667,
+    "y": 0.6625,
+    "xG": 0.041465297,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9333333333333333,
+    "y": 0.575,
+    "xG": 0.053452875,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.3875,
+    "xG": 0.06442231,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ali Krieger",
+    "team": "Orlando Pride",
+    "x": 0.9666666666666667,
+    "y": 0.475,
+    "xG": 0.1607902,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.9,
+    "y": 0.6625,
+    "xG": 0.03740624,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ali Krieger",
+    "team": "Orlando Pride",
+    "x": 0.95,
+    "y": 0.45,
+    "xG": 0.09516496,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Tori Huster",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.5375,
+    "xG": 0.04441988,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Meggie Dougherty Howard",
+    "team": "Washington Spirit",
+    "x": 0.7666666666666667,
+    "y": 0.5,
+    "xG": 0.028307548,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.95,
+    "y": 0.375,
+    "xG": 0.06713568,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.8333333333333334,
+    "y": 0.5875,
+    "xG": 0.06300186,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.7916666666666666,
+    "y": 0.7125,
+    "xG": 0.01534195,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8166666666666667,
+    "y": 0.725,
+    "xG": 0.014394562,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8916666666666667,
+    "y": 0.625,
+    "xG": 0.0896802,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.7166666666666667,
+    "y": 0.5375,
+    "xG": 0.018236453,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.7666666666666667,
+    "y": 0.55,
+    "xG": 0.026569383,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.8916666666666667,
+    "y": 0.4,
+    "xG": 0.082259305,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Monica Hickmann Alves",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.3875,
+    "xG": 0.13468741,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8666666666666667,
+    "y": 0.4625,
+    "xG": 0.1025468,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estefanía Romina Banini Ruiz",
+    "team": "Washington Spirit",
+    "x": 0.925,
+    "y": 0.3125,
+    "xG": 0.047648035,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Meggie Dougherty Howard",
+    "team": "Washington Spirit",
+    "x": 0.9166666666666666,
+    "y": 0.5125,
+    "xG": 0.15218212,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.5125,
+    "xG": 0.12778337,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Camila Martins Pereira",
+    "team": "Orlando Pride",
+    "x": 0.85,
+    "y": 0.5,
+    "xG": 0.0537907,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.6,
+    "xG": 0.08841688,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.4125,
+    "xG": 0.15986235,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9,
+    "y": 0.5375,
+    "xG": 0.060025398,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Camila Martins Pereira",
+    "team": "Orlando Pride",
+    "x": 0.8083333333333333,
+    "y": 0.5,
+    "xG": 0.05233368,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Camila Martins Pereira",
+    "team": "Orlando Pride",
+    "x": 0.7416666666666667,
+    "y": 0.75,
+    "xG": 0.0058154915,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.8916666666666667,
+    "y": 0.575,
+    "xG": 0.049067985,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.9416666666666667,
+    "y": 0.3625,
+    "xG": 0.17564428,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.825,
+    "y": 0.6625,
+    "xG": 0.036029506,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8833333333333333,
+    "y": 0.4375,
+    "xG": 0.059062738,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Aubrey Renee Kingsbury",
+    "team": "Washington Spirit",
+    "x": 0.925,
+    "y": 0.4625,
+    "xG": 0.08959001,
+    "outcome": "Wayward",
+    "bodyPart": "Other",
+    "matchId": null
+  },
+  {
+    "player": "Whitney Church",
+    "team": "Washington Spirit",
+    "x": 0.8583333333333333,
+    "y": 0.4375,
+    "xG": 0.05924054,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Whitney Church",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.4125,
+    "xG": 0.06652502,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Adriana Kristina Leon",
+    "team": "OL Reign",
+    "x": 0.8583333333333333,
+    "y": 0.5875,
+    "xG": 0.09456273,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.7916666666666666,
+    "y": 0.6125,
+    "xG": 0.029687133,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.95,
+    "y": 0.425,
+    "xG": 0.4144298,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.85,
+    "y": 0.7,
+    "xG": 0.04701687,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Desiree Rose Marie Scott",
+    "team": "Utah Royals",
+    "x": 0.7583333333333333,
+    "y": 0.5,
+    "xG": 0.022711046,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.5,
+    "xG": 0.13215852,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.775,
+    "y": 0.5,
+    "xG": 0.045987226,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.925,
+    "y": 0.425,
+    "xG": 0.05013588,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.9666666666666667,
+    "y": 0.6625,
+    "xG": 0.036103237,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.5875,
+    "xG": 0.08203789,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.975,
+    "y": 0.375,
+    "xG": 0.042328417,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Rebecca Moros",
+    "team": "Utah Royals",
+    "x": 0.725,
+    "y": 0.6,
+    "xG": 0.013930843,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.825,
+    "y": 0.7375,
+    "xG": 0.0096744,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.7916666666666666,
+    "y": 0.5,
+    "xG": 0.032475572,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.875,
+    "y": 0.2875,
+    "xG": 0.02946362,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.11806294,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katie Bowen",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.6875,
+    "xG": 0.019533083,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha Johnson",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.55,
+    "xG": 0.15110926,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8583333333333333,
+    "y": 0.4625,
+    "xG": 0.1885822,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.375,
+    "xG": 0.16616946,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.4375,
+    "xG": 0.105560675,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.5125,
+    "xG": 0.0338279,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Meggie Dougherty Howard",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.5625,
+    "xG": 0.10189198,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Merritt Mathias",
+    "team": "North Carolina Courage",
+    "x": 0.775,
+    "y": 0.6125,
+    "xG": 0.023438973,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Taylor Smith",
+    "team": "Washington Spirit",
+    "x": 0.925,
+    "y": 0.6875,
+    "xG": 0.06363491,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.5125,
+    "xG": 0.6637888,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.6625,
+    "xG": 0.06314421,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.575,
+    "xG": 0.08257184,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.525,
+    "xG": 0.05240073,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "McCall Zerboni",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.55,
+    "xG": 0.07491938,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.55,
+    "xG": 0.07090696,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tori Huster",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.4875,
+    "xG": 0.1449643,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.575,
+    "xG": 0.085265554,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.625,
+    "xG": 0.29105633,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.625,
+    "xG": 0.084032886,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.4125,
+    "xG": 0.13511683,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.5,
+    "xG": 0.42185736,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.7916666666666666,
+    "y": 0.625,
+    "xG": 0.03106029,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.7583333333333333,
+    "y": 0.5125,
+    "xG": 0.03251523,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.725,
+    "xG": 0.02485768,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5625,
+    "xG": 0.11314585,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.6375,
+    "xG": 0.05550635,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.6375,
+    "xG": 0.22913148,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.8083333333333333,
+    "y": 0.6375,
+    "xG": 0.026721502,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rosemary Kathleen Lavelle",
+    "team": "Washington Spirit",
+    "x": 0.7916666666666666,
+    "y": 0.4625,
+    "xG": 0.042098176,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.7125,
+    "xG": 0.017848162,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.875,
+    "y": 0.65,
+    "xG": 0.08612546,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Estelle Johnson",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.575,
+    "xG": 0.06572789,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.65,
+    "xG": 0.094000295,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.5125,
+    "xG": 0.29035154,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.925,
+    "y": 0.525,
+    "xG": 0.2033329,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Hill",
+    "team": "Orlando Pride",
+    "x": 0.9,
+    "y": 0.3375,
+    "xG": 0.10038433,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.425,
+    "xG": 0.1901159,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.325,
+    "xG": 0.07162415,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9416666666666667,
+    "y": 0.6,
+    "xG": 0.057251688,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.4875,
+    "xG": 0.3313803,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katie Bowen",
+    "team": "Utah Royals",
+    "x": 0.7166666666666667,
+    "y": 0.5375,
+    "xG": 0.026851725,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.9083333333333333,
+    "y": 0.5125,
+    "xG": 0.7835,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.3625,
+    "xG": 0.14316231,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Edmonds",
+    "team": "Orlando Pride",
+    "x": 0.7833333333333333,
+    "y": 0.7625,
+    "xG": 0.08870972,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.9166666666666666,
+    "y": 0.5375,
+    "xG": 0.16277653,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.8166666666666667,
+    "y": 0.525,
+    "xG": 0.051179927,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.725,
+    "y": 0.275,
+    "xG": 0.12432386,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.425,
+    "xG": 0.060588382,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Rae Leroux",
+    "team": "Orlando Pride",
+    "x": 0.95,
+    "y": 0.3,
+    "xG": 0.015001686,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.9333333333333333,
+    "y": 0.5875,
+    "xG": 0.054578062,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.725,
+    "y": 0.275,
+    "xG": 0.0059884223,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Toni Pressley",
+    "team": "Orlando Pride",
+    "x": 0.6416666666666667,
+    "y": 0.2875,
+    "xG": 0.005723953,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Hill",
+    "team": "Orlando Pride",
+    "x": 0.9166666666666666,
+    "y": 0.5125,
+    "xG": 0.15056,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Corsie",
+    "team": "Utah Royals",
+    "x": 0.9333333333333333,
+    "y": 0.45,
+    "xG": 0.14261496,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.6916666666666667,
+    "y": 0.475,
+    "xG": 0.0071797096,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9333333333333333,
+    "y": 0.7,
+    "xG": 0.022479612,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.4875,
+    "xG": 0.032097492,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.5375,
+    "xG": 0.20482536,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.3625,
+    "xG": 0.07201114,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.45,
+    "xG": 0.52877396,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.6375,
+    "xG": 0.19046912,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.4125,
+    "xG": 0.087524265,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Thaysa de Moraes Rosa Moreno",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9083333333333333,
+    "y": 0.3875,
+    "xG": 0.21912876,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.975,
+    "y": 0.425,
+    "xG": 0.13660195,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.45,
+    "xG": 0.1308167,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9583333333333334,
+    "y": 0.4375,
+    "xG": 0.3638777,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8166666666666667,
+    "y": 0.3375,
+    "xG": 0.036839034,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.775,
+    "y": 0.45,
+    "xG": 0.032226812,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sarah Killion",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9333333333333333,
+    "y": 0.55,
+    "xG": 0.19173947,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.375,
+    "xG": 0.4902142,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8583333333333333,
+    "y": 0.5375,
+    "xG": 0.11607515,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.4125,
+    "xG": 0.06850229,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.4875,
+    "xG": 0.06821975,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.5,
+    "xG": 0.039236516,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8083333333333333,
+    "y": 0.35,
+    "xG": 0.0508101,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.675,
+    "xG": 0.036575533,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.6875,
+    "xG": 0.05666318,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9416666666666667,
+    "y": 0.425,
+    "xG": 0.19866422,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9666666666666667,
+    "y": 0.5125,
+    "xG": 0.67247033,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.6333333333333333,
+    "y": 0.25,
+    "xG": 0.005308606,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.4625,
+    "xG": 0.28959966,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.4125,
+    "xG": 0.08913088,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.75,
+    "y": 0.625,
+    "xG": 0.018280197,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7916666666666666,
+    "y": 0.325,
+    "xG": 0.017484162,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.4,
+    "xG": 0.4251206,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7583333333333333,
+    "y": 0.35,
+    "xG": 0.020288689,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.5625,
+    "xG": 0.1885167,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7416666666666667,
+    "y": 0.675,
+    "xG": 0.0065448373,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Heather O''Reilly",
+    "team": "North Carolina Courage",
+    "x": 0.85,
+    "y": 0.4625,
+    "xG": 0.06755848,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9833333333333333,
+    "y": 0.425,
+    "xG": 0.6346382,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.675,
+    "xG": 0.048357736,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9166666666666666,
+    "y": 0.4375,
+    "xG": 0.11053508,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.5125,
+    "xG": 0.050470345,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.65,
+    "xG": 0.08012953,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9666666666666667,
+    "y": 0.3,
+    "xG": 0.013980359,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9083333333333333,
+    "y": 0.325,
+    "xG": 0.06987346,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.25,
+    "xG": 0.010453868,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.825,
+    "y": 0.375,
+    "xG": 0.04713584,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.45,
+    "xG": 0.34316838,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8083333333333333,
+    "y": 0.3,
+    "xG": 0.025104394,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.7166666666666667,
+    "y": 0.5,
+    "xG": 0.030757101,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8166666666666667,
+    "y": 0.3125,
+    "xG": 0.02442867,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8,
+    "y": 0.625,
+    "xG": 0.06885328,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.7666666666666667,
+    "y": 0.575,
+    "xG": 0.040606894,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.65,
+    "xG": 0.1398586,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.9916666666666667,
+    "y": 0.3125,
+    "xG": 0.01663726,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8833333333333333,
+    "y": 0.3625,
+    "xG": 0.07112943,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Danielle Colaprico",
+    "team": "Chicago Red Stars",
+    "x": 0.8416666666666667,
+    "y": 0.3625,
+    "xG": 0.0803823,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Mautz",
+    "team": "Chicago Red Stars",
+    "x": 0.8833333333333333,
+    "y": 0.725,
+    "xG": 0.016832283,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.3875,
+    "xG": 0.12840556,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Adriana Kristina Leon",
+    "team": "OL Reign",
+    "x": 0.8416666666666667,
+    "y": 0.6625,
+    "xG": 0.040111944,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8333333333333334,
+    "y": 0.3625,
+    "xG": 0.02478428,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.7916666666666666,
+    "y": 0.65,
+    "xG": 0.021741254,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.7583333333333333,
+    "y": 0.4625,
+    "xG": 0.032467853,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.9416666666666667,
+    "y": 0.5625,
+    "xG": 0.17570686,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.75,
+    "y": 0.5625,
+    "xG": 0.033253264,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9416666666666667,
+    "y": 0.5625,
+    "xG": 0.10181043,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.4875,
+    "xG": 0.07175978,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.875,
+    "y": 0.5625,
+    "xG": 0.36179987,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.8666666666666667,
+    "y": 0.35,
+    "xG": 0.04129654,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8583333333333333,
+    "y": 0.5,
+    "xG": 0.058959182,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Beverly Yanez",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.14865991,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9333333333333333,
+    "y": 0.475,
+    "xG": 0.4082943,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rosie White",
+    "team": "Chicago Red Stars",
+    "x": 0.9,
+    "y": 0.7875,
+    "xG": 0.008874019,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.975,
+    "y": 0.525,
+    "xG": 0.34035492,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.5,
+    "xG": 0.22420046,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.9,
+    "y": 0.5875,
+    "xG": 0.2970132,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.9083333333333333,
+    "y": 0.4625,
+    "xG": 0.32087082,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.75,
+    "y": 0.5,
+    "xG": 0.033661664,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.925,
+    "y": 0.3875,
+    "xG": 0.17508052,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.9083333333333333,
+    "y": 0.55,
+    "xG": 0.08545644,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.975,
+    "y": 0.4625,
+    "xG": 0.53647894,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Taylor Comeau",
+    "team": "Houston Dash",
+    "x": 0.8833333333333333,
+    "y": 0.7375,
+    "xG": 0.010746061,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kealia Ohai",
+    "team": "Houston Dash",
+    "x": 0.9916666666666667,
+    "y": 0.525,
+    "xG": 0.90355986,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.9416666666666667,
+    "y": 0.6125,
+    "xG": 0.061870754,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Clare Elizabeth Polkinghorne",
+    "team": "Houston Dash",
+    "x": 0.7583333333333333,
+    "y": 0.6,
+    "xG": 0.01898722,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.8333333333333334,
+    "y": 0.425,
+    "xG": 0.046920024,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.7833333333333333,
+    "y": 0.6625,
+    "xG": 0.029926866,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nichelle Patrice Prince",
+    "team": "Houston Dash",
+    "x": 0.8583333333333333,
+    "y": 0.35,
+    "xG": 0.039377894,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.925,
+    "y": 0.6625,
+    "xG": 0.094320826,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.7916666666666666,
+    "y": 0.3625,
+    "xG": 0.047831215,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lindsey Michelle Horan",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.6,
+    "xG": 0.056879323,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amber Brooks",
+    "team": "Houston Dash",
+    "x": 0.7666666666666667,
+    "y": 0.575,
+    "xG": 0.020004807,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.9666666666666667,
+    "y": 0.65,
+    "xG": 0.052574057,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.9333333333333333,
+    "y": 0.375,
+    "xG": 0.10158305,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tobin Powell Heath",
+    "team": "Portland Thorns",
+    "x": 0.775,
+    "y": 0.5125,
+    "xG": 0.035376403,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.85,
+    "y": 0.5375,
+    "xG": 0.05377084,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.9166666666666666,
+    "y": 0.4875,
+    "xG": 0.11302533,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.8416666666666667,
+    "y": 0.475,
+    "xG": 0.09292677,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.8583333333333333,
+    "y": 0.4625,
+    "xG": 0.27349296,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nichelle Patrice Prince",
+    "team": "Houston Dash",
+    "x": 0.95,
+    "y": 0.5875,
+    "xG": 0.21077842,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.9166666666666666,
+    "y": 0.6375,
+    "xG": 0.046768658,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.7625,
+    "xG": 0.010891853,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.45,
+    "xG": 0.08587094,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.26123455,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.775,
+    "y": 0.425,
+    "xG": 0.033910435,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Abby Erceg",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.575,
+    "xG": 0.051602986,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.4875,
+    "xG": 0.08751244,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.95,
+    "y": 0.5875,
+    "xG": 0.09620814,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Diana Matheson",
+    "team": "Utah Royals",
+    "x": 0.825,
+    "y": 0.65,
+    "xG": 0.0388993,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.6125,
+    "xG": 0.029523456,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.6875,
+    "xG": 0.0742122,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9166666666666666,
+    "y": 0.4375,
+    "xG": 0.22934768,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.575,
+    "xG": 0.08972699,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.45,
+    "xG": 0.070726424,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.4,
+    "xG": 0.13484019,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.7833333333333333,
+    "y": 0.5125,
+    "xG": 0.04091162,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8916666666666667,
+    "y": 0.675,
+    "xG": 0.065403566,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.625,
+    "xG": 0.01923242,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Bowen",
+    "team": "Utah Royals",
+    "x": 0.7416666666666667,
+    "y": 0.7,
+    "xG": 0.0071962643,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha Johnson",
+    "team": "Utah Royals",
+    "x": 0.9166666666666666,
+    "y": 0.375,
+    "xG": 0.08811137,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erika Tymrak",
+    "team": "Utah Royals",
+    "x": 0.8333333333333334,
+    "y": 0.3125,
+    "xG": 0.031780303,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.625,
+    "xG": 0.1710589,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Yuri Kawamura",
+    "team": "North Carolina Courage",
+    "x": 0.925,
+    "y": 0.625,
+    "xG": 0.06927524,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.875,
+    "y": 0.6375,
+    "xG": 0.050849825,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.5,
+    "xG": 0.061132453,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.8916666666666667,
+    "y": 0.375,
+    "xG": 0.1960674,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ana-Maria Crnogorčević",
+    "team": "Portland Thorns",
+    "x": 0.8916666666666667,
+    "y": 0.6375,
+    "xG": 0.088821374,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.8916666666666667,
+    "y": 0.5625,
+    "xG": 0.106156304,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.9166666666666666,
+    "y": 0.45,
+    "xG": 0.13373135,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Christine Margaret Sinclair",
+    "team": "Portland Thorns",
+    "x": 0.9083333333333333,
+    "y": 0.5625,
+    "xG": 0.10534357,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9583333333333334,
+    "y": 0.5625,
+    "xG": 0.23532483,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.875,
+    "y": 0.4375,
+    "xG": 0.50951004,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8083333333333333,
+    "y": 0.3625,
+    "xG": 0.11405851,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.775,
+    "y": 0.3875,
+    "xG": 0.031031037,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Hayley Emma Raso",
+    "team": "Portland Thorns",
+    "x": 0.8833333333333333,
+    "y": 0.3625,
+    "xG": 0.12567452,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katherine Reynolds",
+    "team": "Portland Thorns",
+    "x": 0.9083333333333333,
+    "y": 0.45,
+    "xG": 0.2664489,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9083333333333333,
+    "y": 0.625,
+    "xG": 0.19512042,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8916666666666667,
+    "y": 0.3,
+    "xG": 0.050014317,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8416666666666667,
+    "y": 0.575,
+    "xG": 0.05438924,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.7833333333333333,
+    "y": 0.325,
+    "xG": 0.03004364,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.9083333333333333,
+    "y": 0.5875,
+    "xG": 0.061265446,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Tyler Lussi",
+    "team": "Portland Thorns",
+    "x": 0.8833333333333333,
+    "y": 0.625,
+    "xG": 0.10563491,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9583333333333334,
+    "y": 0.5625,
+    "xG": 0.19801828,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.7666666666666667,
+    "y": 0.6125,
+    "xG": 0.020061588,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8916666666666667,
+    "y": 0.525,
+    "xG": 0.16431232,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amanda Frisbie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9083333333333333,
+    "y": 0.3375,
+    "xG": 0.09260444,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9416666666666667,
+    "y": 0.675,
+    "xG": 0.03998084,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dominique Richardson",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.775,
+    "y": 0.625,
+    "xG": 0.021381594,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9,
+    "y": 0.4875,
+    "xG": 0.38887364,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Janine Elizabeth Beckie",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8916666666666667,
+    "y": 0.55,
+    "xG": 0.11936237,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8416666666666667,
+    "y": 0.525,
+    "xG": 0.057079624,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sarah Killion",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.925,
+    "y": 0.4625,
+    "xG": 0.14293918,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.9333333333333333,
+    "y": 0.575,
+    "xG": 0.06562074,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8583333333333333,
+    "y": 0.575,
+    "xG": 0.4124825,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.825,
+    "y": 0.3875,
+    "xG": 0.087423205,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.7833333333333333,
+    "y": 0.4875,
+    "xG": 0.0684883,
+    "outcome": "Post",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.9416666666666667,
+    "y": 0.5,
+    "xG": 0.4502391,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.8416666666666667,
+    "y": 0.5375,
+    "xG": 0.08916954,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.4125,
+    "xG": 0.20417853,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.9083333333333333,
+    "y": 0.3,
+    "xG": 0.046030365,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.5,
+    "xG": 0.8224703,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.575,
+    "xG": 0.30292138,
+    "outcome": "Post",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Imani Dorsey",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9416666666666667,
+    "y": 0.4875,
+    "xG": 0.47510394,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.8416666666666667,
+    "y": 0.6875,
+    "xG": 0.031355,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Shea Groom",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9333333333333333,
+    "y": 0.525,
+    "xG": 0.18098377,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.13591284,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.925,
+    "y": 0.5,
+    "xG": 0.15833588,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9166666666666666,
+    "y": 0.4625,
+    "xG": 0.08542075,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Raquel Rodriguez",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9083333333333333,
+    "y": 0.5625,
+    "xG": 0.0874877,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alanna Stephanie Kennedy",
+    "team": "Orlando Pride",
+    "x": 0.9583333333333334,
+    "y": 0.5375,
+    "xG": 0.10833886,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.9666666666666667,
+    "y": 0.525,
+    "xG": 0.8784046,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Savannah McCaskill",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.825,
+    "y": 0.425,
+    "xG": 0.06522823,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.8666666666666667,
+    "y": 0.4875,
+    "xG": 0.09359876,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.9583333333333334,
+    "y": 0.5375,
+    "xG": 0.2330701,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.975,
+    "y": 0.3875,
+    "xG": 0.13766223,
+    "outcome": "Post",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Dani Weatherholt",
+    "team": "Orlando Pride",
+    "x": 0.8833333333333333,
+    "y": 0.625,
+    "xG": 0.060646243,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Camila Martins Pereira",
+    "team": "Orlando Pride",
+    "x": 0.8666666666666667,
+    "y": 0.5625,
+    "xG": 0.06227301,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.825,
+    "y": 0.6125,
+    "xG": 0.05548696,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Camila Martins Pereira",
+    "team": "Orlando Pride",
+    "x": 0.8083333333333333,
+    "y": 0.3,
+    "xG": 0.018667938,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Carli Anne Hollins",
+    "team": "NJ/NY Gotham FC",
+    "x": 0.8166666666666667,
+    "y": 0.75,
+    "xG": 0.010305236,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alexandra Morgan Carrasco",
+    "team": "Orlando Pride",
+    "x": 0.9666666666666667,
+    "y": 0.5625,
+    "xG": 0.27314574,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Emily Louise van Egmond",
+    "team": "Orlando Pride",
+    "x": 0.9583333333333334,
+    "y": 0.4875,
+    "xG": 0.20392099,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Marta Vieira da Silva",
+    "team": "Orlando Pride",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.7835,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Chioma Ubogagu",
+    "team": "Orlando Pride",
+    "x": 0.7916666666666666,
+    "y": 0.3875,
+    "xG": 0.029895907,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.9,
+    "y": 0.6875,
+    "xG": 0.05107049,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Tori Huster",
+    "team": "Washington Spirit",
+    "x": 0.825,
+    "y": 0.6625,
+    "xG": 0.067296706,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8166666666666667,
+    "y": 0.5125,
+    "xG": 0.058759764,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9666666666666667,
+    "y": 0.3875,
+    "xG": 0.082534604,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.8916666666666667,
+    "y": 0.6875,
+    "xG": 0.039595943,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.8,
+    "y": 0.5125,
+    "xG": 0.1816325,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.95,
+    "y": 0.5375,
+    "xG": 0.18472883,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.975,
+    "y": 0.45,
+    "xG": 0.50861037,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.9416666666666667,
+    "y": 0.4,
+    "xG": 0.09402157,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.75,
+    "y": 0.6625,
+    "xG": 0.015302941,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.4625,
+    "xG": 0.23861207,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.3625,
+    "xG": 0.09638504,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Taylor Smith",
+    "team": "Washington Spirit",
+    "x": 0.8833333333333333,
+    "y": 0.725,
+    "xG": 0.01928665,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9583333333333334,
+    "y": 0.6,
+    "xG": 0.19538186,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.7833333333333333,
+    "y": 0.4875,
+    "xG": 0.03507056,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.9333333333333333,
+    "y": 0.45,
+    "xG": 0.17485029,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Alyssa Kleiner",
+    "team": "OL Reign",
+    "x": 0.9083333333333333,
+    "y": 0.35,
+    "xG": 0.096544065,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.7416666666666667,
+    "y": 0.3375,
+    "xG": 0.01235857,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.975,
+    "y": 0.4375,
+    "xG": 0.15460807,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Meggie Dougherty Howard",
+    "team": "Washington Spirit",
+    "x": 0.8916666666666667,
+    "y": 0.4375,
+    "xG": 0.0691083,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Havana Solaun",
+    "team": "Washington Spirit",
+    "x": 0.8166666666666667,
+    "y": 0.5125,
+    "xG": 0.041429747,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.8333333333333334,
+    "y": 0.7,
+    "xG": 0.030746384,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8333333333333334,
+    "y": 0.275,
+    "xG": 0.026339453,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Whitney Church",
+    "team": "Washington Spirit",
+    "x": 0.7833333333333333,
+    "y": 0.5875,
+    "xG": 0.028058425,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.925,
+    "y": 0.4,
+    "xG": 0.24418971,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jasmyne Spencer",
+    "team": "OL Reign",
+    "x": 0.9666666666666667,
+    "y": 0.525,
+    "xG": 0.37017682,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.875,
+    "y": 0.6875,
+    "xG": 0.05475028,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jodie Taylor",
+    "team": "OL Reign",
+    "x": 0.9666666666666667,
+    "y": 0.4,
+    "xG": 0.27496678,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Caprice Dydasco",
+    "team": "Washington Spirit",
+    "x": 0.9416666666666667,
+    "y": 0.425,
+    "xG": 0.14264214,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Megan Anna Rapinoe",
+    "team": "OL Reign",
+    "x": 0.8333333333333334,
+    "y": 0.375,
+    "xG": 0.05907104,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Allie Long",
+    "team": "OL Reign",
+    "x": 0.8,
+    "y": 0.45,
+    "xG": 0.043843005,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica Fishlock",
+    "team": "OL Reign",
+    "x": 0.8083333333333333,
+    "y": 0.6625,
+    "xG": 0.028056154,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Caprice Dydasco",
+    "team": "Washington Spirit",
+    "x": 0.9333333333333333,
+    "y": 0.45,
+    "xG": 0.35081318,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.8916666666666667,
+    "y": 0.6125,
+    "xG": 0.06305353,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.8583333333333333,
+    "y": 0.5625,
+    "xG": 0.091111764,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.7583333333333333,
+    "y": 0.25,
+    "xG": 0.007704234,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nichelle Patrice Prince",
+    "team": "Houston Dash",
+    "x": 0.7833333333333333,
+    "y": 0.525,
+    "xG": 0.042534444,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.7916666666666666,
+    "y": 0.5625,
+    "xG": 0.03192218,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.9,
+    "y": 0.5,
+    "xG": 0.10001802,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Bowen",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.6625,
+    "xG": 0.031225637,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Veronica Latsko",
+    "team": "Houston Dash",
+    "x": 0.9416666666666667,
+    "y": 0.425,
+    "xG": 0.15709873,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.6375,
+    "xG": 0.035514683,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.975,
+    "y": 0.5625,
+    "xG": 0.19754583,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Katrina Gorry",
+    "team": "Utah Royals",
+    "x": 0.75,
+    "y": 0.6,
+    "xG": 0.024362665,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.8916666666666667,
+    "y": 0.6875,
+    "xG": 0.024216026,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.9666666666666667,
+    "y": 0.3875,
+    "xG": 0.100013964,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kyah Pam Simon",
+    "team": "Houston Dash",
+    "x": 0.825,
+    "y": 0.35,
+    "xG": 0.030115098,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kealia Ohai",
+    "team": "Houston Dash",
+    "x": 0.9166666666666666,
+    "y": 0.35,
+    "xG": 0.071766615,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nichelle Patrice Prince",
+    "team": "Houston Dash",
+    "x": 0.9583333333333334,
+    "y": 0.4,
+    "xG": 0.09222911,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Rachel Daly",
+    "team": "Houston Dash",
+    "x": 0.7916666666666666,
+    "y": 0.725,
+    "xG": 0.010979887,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9083333333333333,
+    "y": 0.625,
+    "xG": 0.37875342,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Nichelle Patrice Prince",
+    "team": "Houston Dash",
+    "x": 0.8666666666666667,
+    "y": 0.7,
+    "xG": 0.026763039,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.7916666666666666,
+    "y": 0.425,
+    "xG": 0.03550163,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kyah Pam Simon",
+    "team": "Houston Dash",
+    "x": 0.8916666666666667,
+    "y": 0.425,
+    "xG": 0.051105823,
+    "outcome": "Wayward",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Thembi Kgatlana",
+    "team": "Houston Dash",
+    "x": 0.8166666666666667,
+    "y": 0.3625,
+    "xG": 0.027239736,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.9,
+    "y": 0.5125,
+    "xG": 0.29842728,
+    "outcome": "Goal",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Thembi Kgatlana",
+    "team": "Houston Dash",
+    "x": 0.9166666666666666,
+    "y": 0.6,
+    "xG": 0.2513621,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sofia Huerta",
+    "team": "Houston Dash",
+    "x": 0.725,
+    "y": 0.575,
+    "xG": 0.019130245,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.875,
+    "y": 0.4875,
+    "xG": 0.2307884,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.5625,
+    "xG": 0.060452443,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.325,
+    "xG": 0.025648272,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Pugh",
+    "team": "Washington Spirit",
+    "x": 0.9,
+    "y": 0.375,
+    "xG": 0.1271896,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.8666666666666667,
+    "y": 0.4625,
+    "xG": 0.12798227,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Sydney Miramontez",
+    "team": "Utah Royals",
+    "x": 0.8,
+    "y": 0.475,
+    "xG": 0.06675993,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.875,
+    "y": 0.6,
+    "xG": 0.10079002,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.75,
+    "y": 0.5,
+    "xG": 0.025000699,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.8916666666666667,
+    "y": 0.675,
+    "xG": 0.07883203,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Erika Tymrak",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.4375,
+    "xG": 0.12812018,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Mallory Eubanks",
+    "team": "Washington Spirit",
+    "x": 0.75,
+    "y": 0.325,
+    "xG": 0.011031363,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Andi Sullivan",
+    "team": "Washington Spirit",
+    "x": 0.8666666666666667,
+    "y": 0.3375,
+    "xG": 0.07476345,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.3625,
+    "xG": 0.15461336,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.875,
+    "y": 0.425,
+    "xG": 0.14390022,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.825,
+    "y": 0.4125,
+    "xG": 0.062577255,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.7916666666666666,
+    "y": 0.5875,
+    "xG": 0.08176462,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Amy Rodriguez",
+    "team": "Utah Royals",
+    "x": 0.7666666666666667,
+    "y": 0.55,
+    "xG": 0.03222079,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.7833333333333333,
+    "y": 0.4625,
+    "xG": 0.036180004,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.8666666666666667,
+    "y": 0.5875,
+    "xG": 0.10434004,
+    "outcome": "Goal",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Christen Annemarie Press",
+    "team": "Utah Royals",
+    "x": 0.9416666666666667,
+    "y": 0.325,
+    "xG": 0.06659912,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lo’eau LaBonta",
+    "team": "Utah Royals",
+    "x": 0.8083333333333333,
+    "y": 0.6,
+    "xG": 0.050009876,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Gunnhildur Yrsa Jónsdóttir",
+    "team": "Utah Royals",
+    "x": 0.9333333333333333,
+    "y": 0.4875,
+    "xG": 0.0977229,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Whitney Church",
+    "team": "Washington Spirit",
+    "x": 0.7333333333333333,
+    "y": 0.375,
+    "xG": 0.01852989,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Katie Stengel",
+    "team": "Utah Royals",
+    "x": 0.8916666666666667,
+    "y": 0.3625,
+    "xG": 0.07977186,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Taylor Smith",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.625,
+    "xG": 0.073656894,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Ashley Hatch",
+    "team": "Washington Spirit",
+    "x": 0.9083333333333333,
+    "y": 0.5875,
+    "xG": 0.08765152,
+    "outcome": "Saved",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.5125,
+    "xG": 0.06425461,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8583333333333333,
+    "y": 0.7,
+    "xG": 0.028599732,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.8833333333333333,
+    "y": 0.325,
+    "xG": 0.017556515,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.4125,
+    "xG": 0.036664154,
+    "outcome": "Blocked",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.4625,
+    "xG": 0.18735647,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.775,
+    "y": 0.4125,
+    "xG": 0.033036597,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8666666666666667,
+    "y": 0.3875,
+    "xG": 0.06103904,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.7833333333333333,
+    "y": 0.3625,
+    "xG": 0.023381764,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Crystal Alyssia Dunn Soubrier",
+    "team": "North Carolina Courage",
+    "x": 0.75,
+    "y": 0.4375,
+    "xG": 0.021242306,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.3875,
+    "xG": 0.046845287,
+    "outcome": "Saved",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.325,
+    "xG": 0.05734732,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.5875,
+    "xG": 0.13720267,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.95,
+    "y": 0.4125,
+    "xG": 0.14531228,
+    "outcome": "Wayward",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9083333333333333,
+    "y": 0.6625,
+    "xG": 0.09559627,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha June Mewis",
+    "team": "North Carolina Courage",
+    "x": 0.775,
+    "y": 0.65,
+    "xG": 0.02060013,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Jessica McDonald",
+    "team": "North Carolina Courage",
+    "x": 0.9333333333333333,
+    "y": 0.375,
+    "xG": 0.05066042,
+    "outcome": "Blocked",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.8916666666666667,
+    "y": 0.3125,
+    "xG": 0.032180864,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Vanessa DiBernardo",
+    "team": "Chicago Red Stars",
+    "x": 0.7916666666666666,
+    "y": 0.3875,
+    "xG": 0.023547001,
+    "outcome": "Off T",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Morgan Paige Gautrat",
+    "team": "Chicago Red Stars",
+    "x": 0.8583333333333333,
+    "y": 0.325,
+    "xG": 0.041469336,
+    "outcome": "Post",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.925,
+    "y": 0.575,
+    "xG": 0.15460576,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.9,
+    "y": 0.475,
+    "xG": 0.14020744,
+    "outcome": "Goal",
+    "bodyPart": "Head",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.8166666666666667,
+    "y": 0.4375,
+    "xG": 0.103182636,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Denise O'Sullivan",
+    "team": "North Carolina Courage",
+    "x": 0.8,
+    "y": 0.325,
+    "xG": 0.020789769,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.775,
+    "y": 0.55,
+    "xG": 0.026971566,
+    "outcome": "Blocked",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Débora Cristiane de Oliveira",
+    "team": "North Carolina Courage",
+    "x": 0.9,
+    "y": 0.5875,
+    "xG": 0.09270675,
+    "outcome": "Saved",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Lynn Raenie Williams",
+    "team": "North Carolina Courage",
+    "x": 0.8416666666666667,
+    "y": 0.7375,
+    "xG": 0.007715839,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.7583333333333333,
+    "y": 0.55,
+    "xG": 0.022370439,
+    "outcome": "Off T",
+    "bodyPart": "Right Foot",
+    "matchId": null
+  },
+  {
+    "player": "Samantha May Kerr",
+    "team": "Chicago Red Stars",
+    "x": 0.8666666666666667,
+    "y": 0.525,
+    "xG": 0.13019279,
+    "outcome": "Wayward",
+    "bodyPart": "Left Foot",
+    "matchId": null
+  },
+  {
+    "player": "Kristen Hamilton",
+    "team": "North Carolina Courage",
+    "x": 0.9416666666666667,
+    "y": 0.5,
+    "xG": 0.26193497,
+    "outcome": "Off T",
+    "bodyPart": "Head",
+    "matchId": null
+  }
+]

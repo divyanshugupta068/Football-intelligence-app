@@ -1,0 +1,40 @@
+{
+  "Premier League": [
+    {
+      "title": "Premier League title race tightens as top four separate",
+      "image": "https://i.imgur.com/YuJ6QdJ.jpg",
+      "source": "BBC Sport",
+      "time": "Today"
+    },
+    {
+      "title": "VAR decisions spark debate across Premier League fixtures",
+      "image": "https://i.imgur.com/JzvIhKZ.jpg",
+      "source": "Sky Sports",
+      "time": "2 days ago"
+    }
+  ],
+  "La Liga": [
+    {
+      "title": "La Liga clubs push financial reforms ahead of next season",
+      "image": "https://i.imgur.com/LmR7JwS.jpg",
+      "source": "Marca",
+      "time": "3 days ago"
+    }
+  ],
+  "Serie A": [
+    {
+      "title": "Serie A sees resurgence of high-press football",
+      "image": "https://i.imgur.com/akTj2nF.jpg",
+      "source": "Gazzetta dello Sport",
+      "time": "Yesterday"
+    }
+  ],
+  "Bundesliga": [
+    {
+      "title": "Bundesliga youth talents attracting European interest",
+      "image": "https://i.imgur.com/7gD0Ykn.jpg",
+      "source": "Kicker",
+      "time": "4 days ago"
+    }
+  ]
+}

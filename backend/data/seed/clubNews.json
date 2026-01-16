@@ -1,0 +1,44 @@
+{
+  "Barcelona": [
+    {
+      "title": "Barcelona focus on youth development as La Masia graduates shine",
+      "image": "https://i.imgur.com/7FQpZqY.jpg",
+      "source": "Marca",
+      "time": "2 days ago"
+    },
+    {
+      "title": "Xavi backs Barcelona midfield after dominant home performance",
+      "image": "https://i.imgur.com/j9oHnI2.jpg",
+      "source": "Sport",
+      "time": "Today"
+    }
+  ],
+  "Real Madrid": [
+    {
+      "title": "Real Madrid monitor defensive reinforcements ahead of summer",
+      "image": "https://i.imgur.com/5N9C0tH.jpg",
+      "source": "AS",
+      "time": "3 days ago"
+    },
+    {
+      "title": "Ancelotti praises squad depth after crucial league win",
+      "image": "https://i.imgur.com/WPq6xZ7.jpg",
+      "source": "Marca",
+      "time": "Yesterday"
+    }
+  ],
+  "PSG": [
+    {
+      "title": "PSG shift tactical focus as Ligue 1 title race intensifies",
+      "image": "https://i.imgur.com/yzc5BzJ.jpg",
+      "source": "L’Équipe",
+      "time": "4 days ago"
+    },
+    {
+      "title": "PSG planning long-term rebuild around young core",
+      "image": "https://i.imgur.com/n5cF2Xr.jpg",
+      "source": "RMC Sport",
+      "time": "Today"
+    }
+  ]
+}

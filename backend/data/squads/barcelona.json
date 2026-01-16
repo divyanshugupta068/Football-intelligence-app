@@ -1,0 +1,139 @@
+{
+  "club": "FC Barcelona",
+  "league": "La Liga",
+  "season": "2025-26",
+  "lastUpdated": "2025-07",
+  "squad": [
+    {
+      "id": 1,
+      "name": "Marc-André ter Stegen",
+      "position": "Goalkeeper",
+      "number": 1,
+      "age": 33,
+      "nationality": "Germany"
+    },
+    {
+      "id": 2,
+      "name": "Joan Garcia",
+      "position": "Goalkeeper",
+      "number": 13,
+      "age": 24,
+      "nationality": "Spain"
+    },
+
+    {
+      "id": 3,
+      "name": "Ronald Araújo",
+      "position": "Centre Back",
+      "number": 4,
+      "age": 26,
+      "nationality": "Uruguay"
+    },
+    {
+      "id": 4,
+      "name": "Jules Koundé",
+      "position": "Right Back",
+      "number": 23,
+      "age": 27,
+      "nationality": "France"
+    },
+    {
+      "id": 5,
+      "name": "Pau Cubarsí",
+      "position": "Centre Back",
+      "number": 2,
+      "age": 19,
+      "nationality": "Spain"
+    },
+    {
+      "id": 6,
+      "name": "Alejandro Balde",
+      "position": "Left Back",
+      "number": 3,
+      "age": 22,
+      "nationality": "Spain"
+    },
+    {
+      "id": 7,
+      "name": "Andreas Christensen",
+      "position": "Centre Back",
+      "number": 15,
+      "age": 29,
+      "nationality": "Denmark"
+    },
+
+    {
+      "id": 8,
+      "name": "Frenkie de Jong",
+      "position": "Defensive Midfielder",
+      "number": 21,
+      "age": 28,
+      "nationality": "Netherlands"
+    },
+    {
+      "id": 9,
+      "name": "Pedri",
+      "position": "Central Midfielder",
+      "number": 8,
+      "age": 23,
+      "nationality": "Spain"
+    },
+    {
+      "id": 10,
+      "name": "Gavi",
+      "position": "Central Midfielder",
+      "number": 6,
+      "age": 21,
+      "nationality": "Spain"
+    },
+    {
+      "id": 11,
+      "name": "Fermín López",
+      "position": "Attacking Midfielder",
+      "number": 16,
+      "age": 22,
+      "nationality": "Spain"
+    },
+
+    {
+      "id": 12,
+      "name": "Lamine Yamal",
+      "position": "Right Winger",
+      "number": 27,
+      "age": 18,
+      "nationality": "Spain"
+    },
+    {
+      "id": 13,
+      "name": "Raphinha",
+      "position": "Winger",
+      "number": 11,
+      "age": 29,
+      "nationality": "Brazil"
+    },
+    {
+      "id": 14,
+      "name": "João Cancelo",
+      "position": "Left Back",
+      "number": 14,
+      "age": 26,
+      "nationality": "Portugal"
+    },
+    {
+      "id": 16,
+      "name": "Robert Lewandowski",
+      "position": "Striker",
+      "number": 9,
+      "age": 37,
+      "nationality": "Poland"
+    },
+    {
+      "id": 16,
+      "name": "Eric Garcia",
+      "position": "Defender",
+      "number": 24,
+      "age": 25,
+      "nationality": "Spain"
+    }  
+]
+}

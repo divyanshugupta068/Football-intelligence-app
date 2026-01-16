@@ -1,0 +1,8 @@
+{
+  "1": {
+    "clubs": ["Barcelona", "Arsenal"],
+    "players": ["Pedri", "Bukayo Saka"],
+    "competitions": ["Champions League", "Premier League"],
+    "interests": ["Transfers", "xG", "Tactical analysis"]
+  }
+}
