@@ -18,7 +18,7 @@ export default function SquadsPage() {
     setLoading(true);
 
     // Fetch all players and filter by club
-    fetch("http://localhost:5000/players/enhanced")
+    fetch("/players/enhanced")
       .then(r => r.json())
       .then(players => {
         if (Array.isArray(players)) {
