@@ -29,7 +29,7 @@ export default function PlayersPageEnhanced() {
 
     useEffect(() => {
         // Load leagues
-        fetch("http://localhost:5000/leagues")
+        fetch("/leagues")
             .then(r => r.json())
             .then(d => setLeagues(Array.isArray(d) ? d : []))
             .catch(() => setLeagues([]));

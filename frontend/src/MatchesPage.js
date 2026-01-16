@@ -14,7 +14,7 @@ export default function MatchesPage() {
 
   /* ---------- LOAD LEAGUES ---------- */
   useEffect(() => {
-    fetch("http://localhost:5000/leagues")
+    fetch("/leagues")
       .then(r => r.json())
       .then(d => setLeagues(Array.isArray(d) ? d : []))
       .catch(() => {});
@@ -36,7 +36,7 @@ useEffect(() => {
 
       // 👇 fallback if live empty
       if (tab === "live" && arr.length === 0) {
-        fetch("http://localhost:5000/matches/today")
+        fetch("/matches/today")
           .then(r => r.json())
           .then(fd =>
             setFallback(Array.isArray(fd) ? fd : [])
@@ -52,7 +52,7 @@ useEffect(() => {
     if (tab !== "live") return;
 
     const interval = setInterval(() => {
-      fetch("http://localhost:5000/live-matches")
+      fetch("/live-matches")
         .then(r => r.json())
         .then(d => setMatches(Array.isArray(d) ? d : []));
     }, 30000);

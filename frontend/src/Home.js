@@ -43,7 +43,7 @@ export default function Home() {
 
   /* ---------- LIVE MATCHES ---------- */
   useEffect(() => {
-    fetch("http://localhost:5000/live-matches")
+    fetch("/live-matches")
       .then(r => r.json())
       .then(d => setLiveMatches(Array.isArray(d) ? d : []))
       .finally(() => setLoadingLive(false));
@@ -51,7 +51,7 @@ export default function Home() {
 
   /* ---------- TODAY MATCHES ---------- */
   useEffect(() => {
-    fetch("http://localhost:5000/matches-today")
+    fetch("/matches-today")
       .then(r => r.json())
       .then(d => setTodayMatches(Array.isArray(d) ? d : []))
       .finally(() => setLoadingToday(false));
@@ -59,7 +59,7 @@ export default function Home() {
 
   /* ---------- FOR YOU ---------- */
   useEffect(() => {
-    fetch("http://localhost:5000/for-you")
+    fetch("/for-you")
       .then(r => r.json())
       .then(d => setForYou(Array.isArray(d) ? d : []))
       .finally(() => setLoadingForYou(false));

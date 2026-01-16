@@ -82,7 +82,7 @@ export default function ComparePage() {
 
   /* ---------- LOAD PLAYERS ---------- */
   useEffect(() => {
-    fetch("http://localhost:5000/players/enhanced")
+    fetch("/players/enhanced")
       .then(r => r.json())
       .then(d => {
         setPlayers(Array.isArray(d) ? d : []);
